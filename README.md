@@ -15,8 +15,7 @@ class BerkayEnesBorekci:
         self.role = "Computer Engineering Student"
         self.location = "Turkey 🇹🇷"
         self.current_focus = ["Python", "C#", "AI/ML", "Software Development"]
-        self.interests = ["Machine Learning", "Backend Development", "Game Development"]
-        self.learning = "Building intelligent systems and scalable applications"
+        self.interests = ["Machine Learning", "Backend Development"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
@@ -71,7 +70,7 @@ public class CurrentProjects
     {
         var focus = new List<string>
         {
-"🤖 Exploring AI and machine learning concepts",
+            "🤖 Exploring AI and machine learning concepts",
             "💻 Building software projects with Python and C#",
             "📊 Practicing data structures and algorithms"        };
         
