@@ -71,11 +71,9 @@ public class CurrentProjects
     {
         var focus = new List<string>
         {
-            "🐍 Mastering Python for AI/ML applications",
-            "🎮 Building games with Unity & C#",
-            "🧠 Exploring machine learning algorithms",
-            "🚀 Contributing to open-source projects"
-        };
+"🤖 Exploring AI and machine learning concepts",
+            "💻 Building software projects with Python and C#",
+            "📊 Practicing data structures and algorithms"        };
         
         Console.WriteLine("Currently working on:");
         focus.ForEach(item => Console.WriteLine($"  {item}"));
